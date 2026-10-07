@@ -1,16 +1,16 @@
-# C Programming
+# C Programming - 1st Semester
 
-My first C program while learning programming in 1st semester.
+This repository contains my C programming programs and practice work from the 1st semester of B.Tech CSE.
 
 ## About
 
-This repository contains my beginner C programming practice.
+This repository includes programs covering the basics of C programming, including input/output, data types, operators, conditional statements, loops, functions, arrays, and other fundamental concepts.
 
-## Program
+## Programs
 
-### Hello, GitHub!
+### Program 01 - Basic Input/Output
 
-A simple C program that prints a message on the screen.
+A C program demonstrating the use of basic input/output functions such as `scanf()` and `printf()` with different data types including `int`, `float`, `char`, and `double`.
 
 ## Author
 
