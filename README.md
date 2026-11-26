@@ -1,9 +1,24 @@
 # C Programming - 1st Semester
 
-MIT-ADT C Programming lab programs, written in C. Experiments 16–25 follow the corresponding requirements in the 2026–27 lab manual.
+MIT-ADT C Programming lab programs, written in C. Experiments 01–25 follow the corresponding requirements in the 2026–27 lab manual.
 
 | File | Experiment |
 |---|---|
+| `Program01.c` | Basic input and output using int, float, char and double |
+| `Program02.c` | Area of a circle |
+| `Program03.c` | Average of three numbers |
+| `Program04.c` | Swap two numbers using a temporary variable |
+| `Program05.c` | Single-line and multi-line comments |
+| `Program06.c` | Operator precedence and associativity |
+| `Program07.c` | Check whether a number is even or odd |
+| `Program08.c` | Check whether a number is positive, negative or zero |
+| `Program09.c` | Menu-driven calculator using switch-case |
+| `Program10.c` | Multiplication table using while, do-while and for loops |
+| `Program11.c` | Integer, float and character arrays with element addresses |
+| `Program12.c` | Sum of elements in a one-dimensional array |
+| `Program13.c` | Addition of two matrices |
+| `Program14.c` | Factorial using a user-defined function |
+| `Program15.c` | Triangle area using four types of user-defined functions |
 | `Program16.c` | Student structure, three subject marks, total and average |
 | `Program17.c` | Union with integer, float and character members |
 | `Program18.c` | Employee records using an array of structures |
